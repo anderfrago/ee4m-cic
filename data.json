@@ -2,11 +2,11 @@
   "courses": [
     {
       "title": "Introduction to Operations Management",
-      "subtitles": [
+      "units": [
         {
           "id": 1,
           "title": "Unit 1: Introduction to Operations Management",
-          "units": [
+          "lessons": [
             {
               "title": "Lesson 1: What is Operations Management?",
               "content": {
@@ -32,7 +32,7 @@
         {
           "id": 2,
           "title": "Unit 2: Operations Strategy",
-          "units": [
+          "lessons": [
             {
               "title": "Lesson 1: Operations Strategy Overview",
               "content": {
