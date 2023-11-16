@@ -1,0 +1,105 @@
+{
+    "courses": [
+      {
+        "title": "Introduction to Operations Management",
+        "units": [
+          {
+            "id": 1,
+            "title": "Unit 1: Introduction to Operations Management",
+            "lessons": [
+              {
+                "id": 1,
+                "title": "Lesson 1: What is Operations Management?",
+                "content": {
+                  "video": "https://www.youtube.com/embed/9--q1FvF7ZQ",
+                  "text": "https://drive.google.com/file/d/1g_AGMejktLdwNmFWJQp3cxtmrZomwPf6/preview",
+                  "exercise": "https://h5p.org/h5p/embed/1453597",
+                  "slides": "https://docs.google.com/presentation/d/1m_A6gOVev7je00YjPjh1IQYzZzSV-y9-/preview",
+                  "quiz": "https://quizlet.com/846143680/match/embed?i=13hssg&x=1jj1"
+                }
+              },
+              {
+                "id": 2,
+                "title": "Lesson 2: The History of Operations Management",
+                "content": {
+                  "video": "https://www.youtube.com/embed/9--q1FvF7ZQ",
+                  "text": "https://drive.google.com/file/d/1g_AGMejktLdwNmFWJQp3cxtmrZomwPf6/preview",
+                  "exercise": "https://h5p.org/h5p/embed/1453597",
+                  "slides": "https://docs.google.com/presentation/d/1m_A6gOVev7je00YjPjh1IQYzZzSV-y9-/preview",
+                  "quiz": "https://quizlet.com/846143680/match/embed?i=13hssg&x=1jj1"
+                }
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "title": "Unit 2: Operations Strategy",
+            "lessons": [
+              {
+                "id": 1,
+                "title": "Lesson 1: Operations Strategy Overview",
+                "content": {
+                  "video": "https://www.youtube.com/embed/9--q1FvF7ZQ",
+                  "text": "https://drive.google.com/file/d/1g_AGMejktLdwNmFWJQp3cxtmrZomwPf6/preview",
+                  "exercise": "https://h5p.org/h5p/embed/1453597",
+                  "slides": "https://docs.google.com/presentation/d/1m_A6gOVev7je00YjPjh1IQYzZzSV-y9-/preview",
+                  "quiz": "https://quizlet.com/846143680/match/embed?i=13hssg&x=1jj1"
+                }
+              },
+              {
+                "id": 2,
+                "title": "Lesson 2: Competitive Advantage",
+                "content": {
+                  "video": "https://www.youtube.com/embed/9--q1FvF7ZQ",
+                  "text": "https://drive.google.com/file/d/1g_AGMejktLdwNmFWJQp3cxtmrZomwPf6/preview",
+                  "exercise": "https://h5p.org/h5p/embed/1453597",
+                  "slides": "https://docs.google.com/presentation/d/1m_A6gOVev7je00YjPjh1IQYzZzSV-y9-/preview",
+                  "quiz": "https://quizlet.com/846143680/match/embed?i=13hssg&x=1jj1"
+                }
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "title": "Unit 3: Introduction to Operations Management 3",
+            "lessons": [
+              {
+                "id": 1,
+                "title": "Lesson 1: What is Operations Management?",
+                "content": {
+                  "video": "https://www.youtube.com/embed/9--q1FvF7ZQ",
+                  "text": "https://drive.google.com/file/d/1g_AGMejktLdwNmFWJQp3cxtmrZomwPf6/preview",
+                  "exercise": "https://h5p.org/h5p/embed/1453597",
+                  "slides": "https://docs.google.com/presentation/d/1m_A6gOVev7je00YjPjh1IQYzZzSV-y9-/preview",
+                  "quiz": "https://quizlet.com/846143680/match/embed?i=13hssg&x=1jj1"
+                }
+              },
+              {
+                "id": 2,
+                "title": "Lesson 2: The History of Operations Management",
+                "content": {
+                  "video": "https://www.youtube.com/embed/9--q1FvF7ZQ",
+                  "text": "https://drive.google.com/file/d/1g_AGMejktLdwNmFWJQp3cxtmrZomwPf6/preview",
+                  "exercise": "https://h5p.org/h5p/embed/1453597",
+                  "slides": "https://docs.google.com/presentation/d/1m_A6gOVev7je00YjPjh1IQYzZzSV-y9-/preview",
+                  "quiz": "https://quizlet.com/846143680/match/embed?i=13hssg&x=1jj1"
+                }
+              },
+              {
+                "id": 3,
+                "title": "Lesson 3: The History of Operations Management",
+                "content": {
+                  "video": "https://www.youtube.com/embed/9--q1FvF7ZQ",
+                  "text": "https://drive.google.com/file/d/1g_AGMejktLdwNmFWJQp3cxtmrZomwPf6/preview",
+                  "exercise": "https://h5p.org/h5p/embed/1453597",
+                  "slides": "https://docs.google.com/presentation/d/1m_A6gOVev7je00YjPjh1IQYzZzSV-y9-/preview",
+                  "quiz": "https://quizlet.com/846143680/match/embed?i=13hssg&x=1jj1"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
