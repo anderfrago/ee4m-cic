@@ -33,8 +33,7 @@ After you complete this Introduction to Operation Management, you will be able t
 Hyperlinks to each of the docs are listed below.
 
 
-
 {% assign units = site.pages  %}
-{% for activity in units  %}
-[{{ activity.title }}]({{ activity.permalink }})
+{% for activity in units  | reverse %}
+[{{ activity.unit.title }}]({{ activity.permalink }})
 {% endfor %}

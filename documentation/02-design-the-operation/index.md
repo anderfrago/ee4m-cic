@@ -11,8 +11,4 @@ unit:
 
 # 02 Design the operation
 
-<object data="./02-design-the-operation/cic-ee4m-00-design-the-operation.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="./02-design-the-operation/cic-ee4m-00-design-the-operation.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./02-design-the-operation/cic-ee4m-00-design-the-operation.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<object data="cic-ee4m-00-design-the-operation.pdf" width="1000" height="1000" type='application/pdf'/>
