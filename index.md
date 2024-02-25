@@ -32,10 +32,10 @@ After you complete this Introduction to Operation Management, you will be able t
 
 Hyperlinks to each of the docs are listed below.
 
-## Labs
+## Modules
 
-{% assign docs = site.pages | where_exp:"page", "page.url contains '/documentation'" %}
+{% assign modules = site.pages | where_exp:"page", "page.url contains '/documentation'" %}
 | Course | Module | Lab |
 | --- |--- | --- | 
-{% for activity in docs  %}| {{ activity.docs.course }} |{{ activity.docs.module }} | [{{ activity.docs.title }}{% if activity.docs.type %} - {{ activity.docs.type }}{% endif %}]({{ site.github.url }}{{ activity.url }}) |
+{% for activity in modules  %}| {{ activity.modules.course }} |{{ activity.modules.module }} | [{{ activity.modules.title }}{% if activity.modules.type %} - {{ activity.modules.type }}{% endif %}]({{ site.github.url }}{{ activity.url }}) |
 {% endfor %}

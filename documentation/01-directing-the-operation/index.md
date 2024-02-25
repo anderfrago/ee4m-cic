@@ -1,5 +1,5 @@
 ---
-doc:
+unit:
     course: 'intro-operation-management'
     title: '01 Direction the operation'
     module: '01 Direction the operation'

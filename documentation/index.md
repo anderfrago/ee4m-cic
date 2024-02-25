@@ -1,18 +1,18 @@
 ---
-layout: page
-Introduction to Operation Management:
-  title: "Introduction to Operation Management: Example"
-  module: "Module 0: Placeholder"
+module:
+    course: 'intro-operation-management'
+    title: 'Introduction to operation management'
+    module: 'Introduction to operation management'
 ---
 
 # Content Directory
 
 Hyperlinks to each of the docs are listed below.
 
-## Labs
+## Units
 
-{% assign docs = site.pages | where_exp:"page", "page.url contains '/documentation'" %}
+{% assign units = site.pages | where_exp:"page", "page.url contains '/*'" %}
 | Course | Module | Lab |
 | --- |--- | --- | 
-{% for activity in docs  %}| {{ activity.docs.course }} |{{ activity.docs.module }} | [{{ activity.docs.title }}{% if activity.docs.type %} - {{ activity.docs.type }}{% endif %}]({{ site.github.url }}{{ activity.url }}) |
+{% for activity in units  %}| {{ activity.units.course }} |{{ activity.units.module }} | [{{ activity.units.title }}{% if activity.units.type %} - {{ activity.units.type }}{% endif %}]({{ site.github.url }}{{ activity.url }}) |
 {% endfor %}
