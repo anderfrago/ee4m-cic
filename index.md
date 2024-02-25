@@ -32,9 +32,9 @@ After you complete this Introduction to Operation Management, you will be able t
 
 Hyperlinks to each of the docs are listed below.
 
-## units
+## Units
 
-{% assign units = site.pages  %}
+{% assign units = site.pages | where_exp:"page", "page.url contains '/documentation'" %}
 | Course | Module | Lab |
 | --- |--- | --- | 
 {% for activity in units  %}| {{ activity.units.course }} |{{ activity.units.module }} | [{{ activity.units.title }}{% if activity.units.type %} - {{ activity.units.type }}{% endif %}]({{ site.github.url }}{{ activity.url }}) |
