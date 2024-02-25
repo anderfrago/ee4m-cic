@@ -12,7 +12,7 @@ unit:
 # 01 Direction the operation
 
 <iframe
-      src="./cic-ee4m-00-directing-the-operation.pdf"
+      src="https://anderfrago.github.io/ee4m-cic/documentation/01-directing-the-operation/cic-ee4m-00-directing-the-operation.pdf"
       width="100%"
       height="600px"
       loading="lazy"
