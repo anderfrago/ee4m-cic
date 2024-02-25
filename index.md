@@ -34,7 +34,7 @@ Hyperlinks to each of the docs are listed below.
 
 ## units
 
-{% assign units = site.pages | where_exp:"page", "page.url contains '/documentation'" %}
+{% assign units = site.pages  %}
 | Course | Module | Lab |
 | --- |--- | --- | 
 {% for activity in units  %}| {{ activity.units.course }} |{{ activity.units.module }} | [{{ activity.units.title }}{% if activity.units.type %} - {{ activity.units.type }}{% endif %}]({{ site.github.url }}{{ activity.url }}) |
