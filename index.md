@@ -33,6 +33,12 @@ After you complete this Introduction to Operation Management, you will be able t
 Hyperlinks to each of the docs are listed below.
 
 
+
+{% assign units = site.pages  %}
+{% for activity in units  %}
+{{ activity }}
+{% endfor %}
+
 ## Units
 
 {% assign units = site.pages | where_exp:"page", "page.url contains '/documentation'" %}
