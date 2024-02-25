@@ -1,4 +1,5 @@
 ---
+layout: page
 unit:
     course: 'intro-operation-management'
     title: '01 Direction the operation'
