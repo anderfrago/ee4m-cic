@@ -35,10 +35,8 @@ Hyperlinks to each of the docs are listed below.
 
 
 {% assign units = site.pages  %}
-| Course | Module | Lab |
-| --- |--- | --- | 
-{% for unit in units  %}| {{ unit.course }}  |
-{% endfor %}
+{{ units }}  |
+
 
 
 ## Units
