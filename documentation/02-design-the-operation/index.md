@@ -11,8 +11,8 @@ unit:
 
 # 02 Design the operation
 
-<object data="https://github.com/anderfrago/ee4m-cic/blob/4bba18155618100c2569d29c785ceb74e5e6ba50/documentation/02-design-the-operation/cic-ee4m-00-design-the-operation.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/anderfrago/ee4m-cic/blob/4bba18155618100c2569d29c785ceb74e5e6ba50/documentation/02-design-the-operation/cic-ee4m-00-design-the-operation.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/anderfrago/ee4m-cic/blob/4bba18155618100c2569d29c785ceb74e5e6ba50/documentation/02-design-the-operation/cic-ee4m-00-design-the-operation.pdf">Download PDF</a>.</p>
+<object data="./02-design-the-operation/cic-ee4m-00-design-the-operation.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="./02-design-the-operation/cic-ee4m-00-design-the-operation.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./02-design-the-operation/cic-ee4m-00-design-the-operation.pdf">Download PDF</a>.</p>
     </embed>
 </object>
