@@ -11,4 +11,10 @@ unit:
 
 # 01 Direction the operation
 
-<object data="cic-ee4m-00-directing-the-operation.pdf" width="1000" height="1000" type='application/pdf'/>
+<iframe
+      src="./cic-ee4m-00-directing-the-operation.pdf"
+      width="100%"
+      height="600px"
+      loading="lazy"
+      title="cic-ee4m-00-directing-the-operation"
+  ></iframe>
