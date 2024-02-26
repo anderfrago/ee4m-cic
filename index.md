@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 Introduction to Operation Management:
   title: "Introduction to Operation Management: Example"
   module: "Module 0: Placeholder"
