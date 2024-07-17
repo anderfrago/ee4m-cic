@@ -1,71 +1,79 @@
 {
-    "courses": [
-      {
-        "title": "Lesson 001: Directing the operation",
-        "units": [
-          {
-            "id": 1,
-            "title": "Learning outcome 001-1: What is operation management",
-            "lessons": [
-              {
-                "id": 1,
-                "title": "Activity 001-1-1: What is Operations Management?",
-                "content": {
-                  "video": "https://www.youtube.com/embed/9--q1FvF7ZQ",
-                  "text": "https://drive.google.com/file/d/1_i8uQAbQ7OoLotooVEdLpkQnhhz5raFT/preview",
-                  "slides": "https://docs.google.com/presentation/d/1m_A6gOVev7je00YjPjh1IQYzZzSV-y9-/preview"
-            
-                }
-              }              
-            ]
-          },
-          {
-            "id": 2,
-            "title": "Learning outcome 001-2: Operation Strategy and competitiveness",
-            "lessons": [
-              {
-                "id": 1,
-                "title": "Activity 001-2-1: Productivity",
-                "content": {
-                  "video": "https://www.youtube.com/embed/9--q1FvF7ZQ",
-                  "text": "https://drive.google.com/file/d/1YJ0ZtID2BHhJRKoh-22V63BfZI_PT_T1/preview"                 
-                }
-              },
-              {
-                "id": 2,
-                "title": "Activity 001-2-2: Business strategy",
-                "content": {                 
-                  "exercise": "https://h5p.org/h5p/embed/1453597",
-                  "quiz": "https://quizlet.com/846143680/match/embed?i=13hssg&x=1jj1"
-                }
-              },
-              {
-                "id": 3,
-                "title": "Activity 001-2-3: Operations strategy",
-                "content": {                 
-                  "exercise": "https://h5p.org/h5p/embed/1453597",
-                  "quiz": "https://quizlet.com/846143680/match/embed?i=13hssg&x=1jj1"
-                }
+  "courses": [
+    {
+      "title": "Training concept 001: Directing the operation",
+      "units": [
+        {
+          "id": 1,
+          "title": "Unit 001-1: What is operation management",
+          "lessons": [
+            {
+              "id": 1,
+              "title": "Module 001-1-1: What is Operations Management?",
+              "content": {
+                "video": "https://www.youtube.com/embed/9--q1FvF7ZQ",
+                "text": "https://drive.google.com/file/d/1g_AGMejktLdwNmFWJQp3cxtmrZomwPf6/preview"                 
               }
-            ]
-          },
-          {
-            "id": 3,
-            "title": "Learning outcome 001-3: PowerBI",
-            "lessons": [
-              {
-                "id": 1,
-                "title": "Activity 001-3-1: Microsoft Data analyst",
-                "content": {
-                  "text": "https://drive.google.com/file/d/1v4sGkpLbEWOi24CxNhtRl-huA2i2WMsJ/preview",
-                  "exercise": "https://h5p.org/h5p/embed/1453597",
-                  "quiz": "https://quizlet.com/846143680/match/embed?i=13hssg&x=1jj1"
-                }
-              }              
-            ]
-          }
-        ]
-      }
-    ]
-  }
-  
+            }              
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Unit 001-2: Operation Strategy and competitiveness",
+          "lessons": [
+            {
+              "id": 1,
+              "title": "Module 001-2-1: Productivity",
+              "content": {
+                "video": "https://www.youtube.com/embed/9--q1FvF7ZQ",
+                "text": "https://drive.google.com/file/d/1g_AGMejktLdwNmFWJQp3cxtmrZomwPf6/preview",
+                "exercise": "https://h5p.org/h5p/embed/1453597",
+                "slides": "https://docs.google.com/presentation/d/1m_A6gOVev7je00YjPjh1IQYzZzSV-y9-/preview",
+                "quiz": "https://quizlet.com/846143680/match/embed?i=13hssg&x=1jj1"
+              }
+            },
+            {
+              "id": 2,
+              "title": "Module 001-2-2: Business strategy",
+              "content": {
+                "video": "https://www.youtube.com/embed/9--q1FvF7ZQ",
+                "text": "https://drive.google.com/file/d/1g_AGMejktLdwNmFWJQp3cxtmrZomwPf6/preview",
+                "exercise": "https://h5p.org/h5p/embed/1453597",
+                "slides": "https://docs.google.com/presentation/d/1m_A6gOVev7je00YjPjh1IQYzZzSV-y9-/preview",
+                "quiz": "https://quizlet.com/846143680/match/embed?i=13hssg&x=1jj1"
+              }
+            },
+            {
+              "id": 3,
+              "title": "Module 001-2-3: Operations strategy",
+              "content": {
+                "video": "https://www.youtube.com/embed/9--q1FvF7ZQ",
+                "text": "https://drive.google.com/file/d/1g_AGMejktLdwNmFWJQp3cxtmrZomwPf6/preview",
+                "exercise": "https://h5p.org/h5p/embed/1453597",
+                "slides": "https://docs.google.com/presentation/d/1m_A6gOVev7je00YjPjh1IQYzZzSV-y9-/preview",
+                "quiz": "https://quizlet.com/846143680/match/embed?i=13hssg&x=1jj1"
+              }
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Unit 001-3: PowerBI",
+          "lessons": [
+            {
+              "id": 1,
+              "title": "Module 001-3-1: Microsoft Data analyst",
+              "content": {
+                "video": "https://www.youtube.com/embed/9--q1FvF7ZQ",
+                "text": "https://drive.google.com/file/d/1g_AGMejktLdwNmFWJQp3cxtmrZomwPf6/preview",
+                "exercise": "https://h5p.org/h5p/embed/1453597",
+                "slides": "https://docs.google.com/presentation/d/1m_A6gOVev7je00YjPjh1IQYzZzSV-y9-/preview",
+                "quiz": "https://quizlet.com/846143680/match/embed?i=13hssg&x=1jj1"
+              }
+            }              
+          ]
+        }
+      ]
+    }
+  ]
+}
