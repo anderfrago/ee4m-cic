@@ -1,15 +1,15 @@
 {
   "courses": [
     {
-      "title": "Training concept 001: Directing the operation",
+      "title": "Module 1.0: Directing the operation",
       "units": [
         {
           "id": 1,
-          "title": "Module 001-1: What is operation management",
+          "title": "Course 1.1: What is operation management",
           "lessons": [
             {
               "id": 1,
-              "title": "Course 001-1-1: What is Operations Management?",
+              "title": "Unit 1.1.1: What is Operations Management?",
               "content": {
                 "video": "https://www.youtube.com/embed/9--q1FvF7ZQ",
                 "text": "https://drive.google.com/file/d/1g_AGMejktLdwNmFWJQp3cxtmrZomwPf6/preview"                 
@@ -19,11 +19,11 @@
         },
         {
           "id": 2,
-          "title": "Module 001-2: Operation Strategy and competitiveness",
+          "title": "Course 1.2: Operation Strategy and competitiveness",
           "lessons": [
             {
               "id": 1,
-              "title": "Course 001-2-1: Productivity",
+              "title": "Unit 1.2.1: Productivity",
               "content": {
                 "video": "https://www.youtube.com/embed/9--q1FvF7ZQ",
                 "text": "https://drive.google.com/file/d/1g_AGMejktLdwNmFWJQp3cxtmrZomwPf6/preview",
@@ -34,7 +34,7 @@
             },
             {
               "id": 2,
-              "title": "Course 001-2-2: Business strategy",
+              "title": "Unit 1.2.2: Business strategy",
               "content": {
                 "video": "https://www.youtube.com/embed/9--q1FvF7ZQ",
                 "exercise": "https://h5p.org/h5p/embed/1453597",
@@ -44,7 +44,7 @@
             },
             {
               "id": 3,
-              "title": "Course 001-2-3: Operations strategy",
+              "title": "Unit 1.2.3: Operations strategy",
               "content": {
                 "video": "https://www.youtube.com/embed/9--q1FvF7ZQ",               
                 "exercise": "https://h5p.org/h5p/embed/1453597",
@@ -56,11 +56,11 @@
         },
         {
           "id": 3,
-          "title": "Module 001-3: PowerBI",
+          "title": "Course 1.3: PowerBI",
           "lessons": [
             {
               "id": 1,
-              "title": "Course 001-3-1: Microsoft Data analyst",
+              "title": "Unit 1.3.1: Microsoft Data analyst",
               "content": {
                 "video": "https://www.youtube.com/embed/9--q1FvF7ZQ",
                 "text": "https://drive.google.com/file/d/1g_AGMejktLdwNmFWJQp3cxtmrZomwPf6/preview",
