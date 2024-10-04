@@ -5,7 +5,7 @@
       "courses": [
         {
           "id": 1,
-          "title": "Course 1.1: What is operation management",
+          "title": "Course 1.1: Introduction to Operations Management",
           "units": [
             {
               "id": 1,
@@ -24,33 +24,16 @@
           "units": [
             {
               "id": 1,
-              "title": "Unit 1.2.1: Productivity",
+              "title": "Unit 1.2.1: Operation Strategy",
               "content": {
-                "video": "https://www.youtube.com/embed/9--q1FvF7ZQ",
-                "text": "https://drive.google.com/file/d/1g_AGMejktLdwNmFWJQp3cxtmrZomwPf6/preview",
-                "exercise": "https://h5p.org/h5p/embed/1453597",
-                "slides": "https://www.canva.com/design/DAGR0iuJCKI/ZpDMJAJ2BIDjVsWNh33pwA/view",
-                "quiz": "https://quizlet.com/846143680/match/embed?i=13hssg&x=1jj1"
+                "text": "https://drive.google.com/file/d/1qnvfhzQWala780wzGnSCF7hP78gsIXzo/preview"
               }
-            },
-            {
-              "id": 2,
-              "title": "Unit 1.2.2: Business strategy",
-              "content": {
-                "video": "https://www.youtube.com/embed/9--q1FvF7ZQ",
-                "exercise": "https://h5p.org/h5p/embed/1453597",
-                "slides": "https://docs.google.com/presentation/d/1m_A6gOVev7je00YjPjh1IQYzZzSV-y9-/preview",
-                "quiz": "https://quizlet.com/846143680/match/embed?i=13hssg&x=1jj1"
-              }
-            },
+            },           
             {
               "id": 3,
-              "title": "Unit 1.2.3: Operations strategy",
+              "title": "Unit 1.2.2: Productivity",
               "content": {
-                "video": "https://www.youtube.com/embed/9--q1FvF7ZQ",               
-                "exercise": "https://h5p.org/h5p/embed/1453597",
-                "slides": "https://docs.google.com/presentation/d/1m_A6gOVev7je00YjPjh1IQYzZzSV-y9-/preview",
-                "quiz": "https://quizlet.com/846143680/match/embed?i=13hssg&x=1jj1"
+               
               }
             }
           ]
@@ -63,11 +46,6 @@
               "id": 1,
               "title": "Unit 1.3.1: Microsoft Data analyst",
               "content": {
-                "video": "https://www.youtube.com/embed/9--q1FvF7ZQ",
-                "text": "https://drive.google.com/file/d/1g_AGMejktLdwNmFWJQp3cxtmrZomwPf6/preview",
-                "exercise": "https://h5p.org/h5p/embed/1453597",
-                "slides": "https://docs.google.com/presentation/d/1m_A6gOVev7je00YjPjh1IQYzZzSV-y9-/preview",
-                "quiz": "https://quizlet.com/846143680/match/embed?i=13hssg&x=1jj1"
               }
             }              
           ]
