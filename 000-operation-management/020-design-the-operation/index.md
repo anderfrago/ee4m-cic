@@ -7,24 +7,11 @@ unit:
     title: '020 Design the operation'
     module: '000 Operation management'
 ---
-
+The SCORM package (accesible to download from [here](./000-operation-management/020-design-the-operation/SCORM-020-design-the-operation.zip){:target="_blank"} ) is integrable in LMSs like Moodle
+You can access to a [preview](./000-operation-management/020-design-the-operation/preview){:target="_blank"}
 
 # 021: What is operation management
+[021-design-the-operation](./000-operation-management/020-design-the-operation/021-design-the-operation.pdf){:target="_blank"}
 
-<embed
-      src="./000-operation-management/020-design-the-operation/021-design-the-operation.pdf"
-      width="100%"
-      height="600px"
-      loading="lazy"
-      title="021-design-the-operation"
-  />
-
-  # 022: Bussiness Process Management
-
-<embed
-      src="./000-operation-management/020-design-the-operation/022-design-bpm.pdf"
-      width="100%"
-      height="600px"
-      loading="lazy"
-      title="022-design-bpm"
-  />
+# 022: Bussiness Process Management
+[022-design-bpm](./000-operation-management/020-design-the-operation/022-design-bpm.pdf){:target="_blank"}

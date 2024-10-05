@@ -7,26 +7,16 @@ unit:
     title: '010 Direction the operation'
     module: '000 Operation management'
 ---
+The SCORM package (accesible to download from [here](./000-operation-management/010-directing-the-operation/SCORM-010-directing-the-operation.zip){:target="_blank"} ) is integrable in LMSs like Moodle
+You can access to a [preview](./000-operation-management/010-directing-the-operation/preview){:target="_blank"}
 
 
 # 011: What is operation management
-
-<embed
-      src="./000-operation-management/010-directing-the-operation/011-what-is-om.pdf"
-      width="100%"
-      height="600px"
-      loading="lazy"
-      title="011-what-is-om"
-  />
+[011-what-is-om](./000-operation-management/010-directing-the-operation/011-what-is-om.pdf){:target="_blank"}
 
   
 # 012: Operation strategy and competitiveness
+[012-operation-strategy-competitiveness](./000-operation-management/010-directing-the-operation/012-operation-strategy-competitiveness.pdf){:target="_blank"}
 
-<embed
-      src="./000-operation-management/010-directing-the-operation/012-operation-strategy-competitiveness.pdf"
-      width="100%"
-      height="600px"
-      loading="lazy"
-      title="012-operation-strategy-competitiveness"
-  />
+
 
