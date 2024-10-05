@@ -17,7 +17,7 @@ unit:
       height="600px"
       loading="lazy"
       title="011-what-is-om"
-  ></embed>
+  />
 
   
 # 012: Operation strategy and competitiveness
@@ -28,5 +28,5 @@ unit:
       height="600px"
       loading="lazy"
       title="012-operation-strategy-competitiveness"
-  ></embed>
+  />
 

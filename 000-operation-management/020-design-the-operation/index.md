@@ -16,8 +16,8 @@ unit:
       width="100%"
       height="600px"
       loading="lazy"
-      title="011-what-is-om"
-  ></embed>
+      title="021-design-the-operation"
+  />
 
   # 022: Bussiness Process Management
 
@@ -26,5 +26,5 @@ unit:
       width="100%"
       height="600px"
       loading="lazy"
-      title="012-operation-strategy-competitiveness"
-  ></embed>
+      title="022-design-bpm"
+  />
