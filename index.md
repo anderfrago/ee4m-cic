@@ -13,11 +13,10 @@ Introduction to Operation Management:
 ### Introduction to Operation Management 
 
 {% assign units = site.pages  %}
-<ul class="list-group"> 
 {% for activity in units   %}
-<li class="list-group-item"><a href="{{ activity.permalink }}">{{ activity.unit.title }}</a></li>
+[{{ activity.unit.title }}]({{ activity.permalink }})
 {% endfor %}
-</ul>
+
 ### Objectives
 
 After you complete this Introduction to Operation Management, you will be able to:
