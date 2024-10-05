@@ -7,8 +7,8 @@ unit:
     title: '010 Direction the operation'
     module: '000 Operation management'
 ---
-The SCORM package (accesible to download from [here](./000-operation-management/010-directing-the-operation/SCORM-010-directing-the-operation.zip){:target="_blank"} ) is integrable in LMSs like Moodle
-You can access to a [preview](./000-operation-management/010-directing-the-operation/preview){:target="_blank"}
+The SCORM package (accesible to download from [here](./010-directing-the-operation/SCORM-010-directing-the-operation.zip){:target="_blank"} ) is integrable in LMSs like Moodle
+You can access to a [preview](./010-directing-the-operation/preview){:target="_blank"}
 
 
 # 011: What is operation management
