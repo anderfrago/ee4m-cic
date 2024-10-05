@@ -1,6 +1,6 @@
 ---
 title: 010-directing-the-operation
-permalink: 010-directing-the-operation.html
+permalink: 000-operation-management/010-directing-the-operation.html
 layout: page
 unit:
     course: 'intro-operation-management'
