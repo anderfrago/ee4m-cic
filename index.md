@@ -15,7 +15,7 @@ Introduction to Operation Management:
 {% assign units = site.pages  %}
 <ul class="list-group"> 
 {% for activity in units   %}
-<li class="list-group-item">[{{ activity.unit.title }}]({{ activity.permalink }})</li>
+<li class="list-group-item"><a href="{{ activity.permalink }}">{{ activity.unit.title }}</a></li>
 {% endfor %}
 </ul>
 ### Objectives
