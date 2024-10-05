@@ -1,6 +1,6 @@
 ---
 title: 020-design-the-operation
-permalink: 020-design-the-operation.html
+permalink: 000-operation-management/020-design-the-operation
 layout: page
 unit:
     course: 'intro-operation-management'
