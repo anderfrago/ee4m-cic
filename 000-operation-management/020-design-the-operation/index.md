@@ -11,20 +11,20 @@ unit:
 
 # 021: What is operation management
 
-<iframe
+<embed
       src="./021-design-the-operation.pdf"
       width="100%"
       height="600px"
       loading="lazy"
       title="011-what-is-om"
-  ></iframe>
+  ></embed>
 
   # 022: Bussiness Process Management
 
-<iframe
+<embed
       src="./022-design-bpm.pdf"
       width="100%"
       height="600px"
       loading="lazy"
       title="012-operation-strategy-competitiveness"
-  ></iframe>
+  ></embed>

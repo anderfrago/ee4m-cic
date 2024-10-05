@@ -35,6 +35,6 @@ Hyperlinks to each of the docs are listed below.
 
 
 {% assign units = site.pages  %}
-{% for activity in units reversed %}
+{% for activity in units   %}
 [{{ activity.unit.title }}]({{ activity.permalink }})
 {% endfor %}
