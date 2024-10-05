@@ -12,7 +12,7 @@
               "title": "Unit 1.1.1: What is Operations Management?",
               "content": {
                 "video": "https://drive.google.com/file/d/1rTfB_Zqhj_qLEPD8LqtGH9b7YpD8GDtj/preview",
-                "textbook": "011", 
+                "textbook": "https://anderfrago.github.io/ee4m-scorms/000-operation-management/010-directing-the-operation/011-what-is-om.pdf", 
                 "exercise": "https://cic-ee4m.h5p.com/content/1292391264061670677/embed"                
               }
             }              
@@ -26,7 +26,7 @@
               "id": 1,
               "title": "Unit 1.2.1: Operation Strategy",
               "content": {
-                "textbook": "https://drive.google.com/file/d/1qnvfhzQWala780wzGnSCF7hP78gsIXzo/preview"
+                "textbook": "https://anderfrago.github.io/ee4m-scorms/000-operation-management/010-directing-the-operation/012-operation-strategy-competitiveness.pdf"
               }
             },           
             {
