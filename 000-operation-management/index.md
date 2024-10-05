@@ -1,6 +1,6 @@
 ---
 title: 000-operation-management
-permalink: 000-operation-management
+permalink: 000-operation-management/index.html
 layout: page
 unit:
     course: 'intro-operation-management'
