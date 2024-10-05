@@ -12,7 +12,7 @@ unit:
 # 011: What is operation management
 
 <iframe
-      src="https://anderfrago.github.io/ee4m-scorms/000-operation-management/010-directing-the-operation/011-what-is-om.pdf"
+      src="./011-what-is-om.pdf"
       width="100%"
       height="600px"
       loading="lazy"
@@ -23,7 +23,7 @@ unit:
   # 012: Operation strategy and competitiveness
 
 <iframe
-      src="https://anderfrago.github.io/ee4m-scorms/000-operation-management/020-design-the-operation/012-operation-strategy-competitiveness.pdf"
+      src="./012-operation-strategy-competitiveness.pdf"
       width="100%"
       height="600px"
       loading="lazy"
