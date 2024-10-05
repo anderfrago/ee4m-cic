@@ -1,40 +1,30 @@
 ---
-title: 01-directing-the-operation
-permalink: 01-directing-the-operation.html
+title: 010-directing-the-operation
+permalink: 010-directing-the-operation.html
 layout: page
 unit:
-    course: 'intro-operation-management'
-    title: '01 Direction the operation'
-    module: '01 Direction the operation'
+    course: '010-directing-the-operation'
+    title: '010 Direction the operation'
+    module: '000 introduction to operation management'
 ---
 
 
-# Learning outcome 001-1: What is operation management
+# Unit 011: What is operation management
 
-<iframe
-      src="https://drive.google.com/file/d/1_i8uQAbQ7OoLotooVEdLpkQnhhz5raFT/preview"
+<embed
+      src="https://anderfrago.github.io/ee4m-scorms/000-operation-management/010-directing-the-operation/011-what-is-om.pdf"
       width="100%"
       height="600px"
       loading="lazy"
       title="cic-ee4m-001-directing-the-operation-1-what-is-om"
-  ></iframe>
+  ></embed>
 
-  # Learning outcome 001-2: Operation Strategy and competitiveness
+# Unit 012: Operation strategy and Competitiveness
 
-<iframe
-      src="https://drive.google.com/file/d/1YJ0ZtID2BHhJRKoh-22V63BfZI_PT_T1/preview"
+<embed
+      src="https://anderfrago.github.io/ee4m-scorms/000-operation-management/010-directing-the-operation/012-operation-strategy-competitiveness"
       width="100%"
       height="600px"
       loading="lazy"
-      title="cic-ee4m-001-directing-the-operation-2-strategy"
-  ></iframe>
-
-  # Learning outcome 001-3: PowerBI
-
-<iframe
-      src="https://drive.google.com/file/d/1v4sGkpLbEWOi24CxNhtRl-huA2i2WMsJ/preview"
-      width="100%"
-      height="600px"
-      loading="lazy"
-      title="cic-ee4m-001-directing-the-operation-3-powerbi"
-  ></iframe>
+      title="cic-ee4m-001-directing-the-operation-1-what-is-om"
+  ></embed>
