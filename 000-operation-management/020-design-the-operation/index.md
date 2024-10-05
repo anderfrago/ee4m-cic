@@ -12,7 +12,7 @@ unit:
 # 021: What is operation management
 
 <embed
-      src="./021-design-the-operation.pdf"
+      src="./000-operation-management/020-design-the-operation/021-design-the-operation.pdf"
       width="100%"
       height="600px"
       loading="lazy"
@@ -22,7 +22,7 @@ unit:
   # 022: Bussiness Process Management
 
 <embed
-      src="./022-design-bpm.pdf"
+      src="./000-operation-management/020-design-the-operation/022-design-bpm.pdf"
       width="100%"
       height="600px"
       loading="lazy"
