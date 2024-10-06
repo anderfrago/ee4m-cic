@@ -13,6 +13,6 @@ You can access to a [preview](./020-design-the-operation/preview){:target="_blan
 
 {% for file in site.static_files %}
     {% if file.path contains page.title %}
-        [file]({{ file.path }}){:target="_blank"}
+        <a href="{{ file.path }}">{{ file.title }}</a>
     {% endif %}
 {% endfor %}

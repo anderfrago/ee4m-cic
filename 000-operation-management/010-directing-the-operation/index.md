@@ -10,13 +10,8 @@ unit:
 The SCORM package (accesible to download from [here](./010-directing-the-operation/SCORM-010-directing-the-operation.zip){:target="_blank"} ) is integrable in LMSs like Moodle
 You can access to a [preview](./010-directing-the-operation/preview){:target="_blank"}
 
-
-# 011: What is operation management
-[011-what-is-om](./010-directing-the-operation/011-what-is-om.pdf){:target="_blank"}
-
-  
-# 012: Operation strategy and competitiveness
-[012-operation-strategy-competitiveness](./010-directing-the-operation/012-operation-strategy-competitiveness.pdf){:target="_blank"}
-
-
-
+{% for file in site.static_files %}
+    {% if file.path contains page.title %}
+        <a href="{{ file.path }}">{{ file.title }}</a>
+    {% endif %}
+{% endfor %}
