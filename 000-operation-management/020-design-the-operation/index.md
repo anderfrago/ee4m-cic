@@ -11,7 +11,7 @@ The SCORM package (accesible to download from [here](./020-design-the-operation/
 You can access to a [preview](./020-design-the-operation/preview){:target="_blank"}
 
 
-{% for file in site %}
+{% for file in site.static_files %}
     {% if file.path contains 'page.title' %}
         [file]({{ file.path }}){:target="_blank"}
     {% endif %}
