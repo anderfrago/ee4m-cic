@@ -13,7 +13,6 @@ Introduction to Operation Management:
 {% endfor %}
 
 
-
 After you complete this Introduction to Operation Management, you will be able to:
 - Cras tincidunt massa et nunc vulputate, eget vestibulum massa tincidunt.
 - Maecenas suscipit at nisl vitae malesuada.
