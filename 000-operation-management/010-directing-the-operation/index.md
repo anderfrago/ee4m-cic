@@ -14,6 +14,6 @@ You can access to a [preview](./010-directing-the-operation/preview){:target="_b
 {% assign files = site.static_files  %}
 {% for file in files   %}
 {% if file.path contains page.title and file.path contains  'pdf' %}
-[{{ file.basename }}]( {{  site.baseurl }}'/'{{ file.path }})
+[{{ file.basename }}]( {{  site.baseurl }}{{ file.path }})
 {% endif %}
 {% endfor %}
