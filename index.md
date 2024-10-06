@@ -13,12 +13,11 @@ Introduction to Operation Management:
 {% endfor %}
 
 
-After you complete this Introduction to Operation Management, you will be able to:
 
+After you complete this Introduction to Operation Management, you will be able to:
 - Cras tincidunt massa et nunc vulputate, eget vestibulum massa tincidunt.
 - Maecenas suscipit at nisl vitae malesuada.
 - Suspendisse eu arcu id velit consequat venenatis.
-
 
 - **Estimated Time**: 300 minutes
 
