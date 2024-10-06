@@ -31,4 +31,4 @@ The theoretical contents of the course are shown below.
 {% endfor %}
 
 # Preview
-[preview]({% link  './preview/index.html' %})
+[preview]({% link  'preview/index.html' %})
