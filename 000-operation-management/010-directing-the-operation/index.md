@@ -12,6 +12,6 @@ You can access to a [preview](./010-directing-the-operation/preview){:target="_b
 
 {% for file in site.static_files %}
     {% if file.path contains page.title and file.path contains  'pdf' %}
-        [{{ file.title }}]({{ file.path }}){:target="_blank"}
+        [{{ file.basename }}]({{ file.path }}){:target="_blank"}
     {% endif %}
 {% endfor %}
