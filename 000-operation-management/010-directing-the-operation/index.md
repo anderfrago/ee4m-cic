@@ -27,4 +27,4 @@ unit:
 {% endfor %}
 
 # Preview
-[preview]({% link  '/preview/index.html' %})
+[preview]({% link  './preview/index.html' %})
