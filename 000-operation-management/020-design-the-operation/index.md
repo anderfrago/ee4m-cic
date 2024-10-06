@@ -7,7 +7,6 @@ unit:
     title: '020 Design the operation'
     module: '000 Operation management'
 ---
-<a href="{{ base }}">Back to home</a>
 
 ## SCORM
 You can download the SCORM package to be integrated into an LMS, e.g. Moodle.
