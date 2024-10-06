@@ -5,7 +5,7 @@ Introduction to Operation Management:
   module: "Module 000: "
 ---
 
-# Introduction to Operation Management: Centro Integrado Cuatrovientos
+### Introduction to Operation Management: Centro Integrado Cuatrovientos
 
 {% assign units = site.pages  %}
 {% for activity in units   %}
