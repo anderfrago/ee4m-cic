@@ -1,12 +1,14 @@
 ---
-title: 020-design-the-operation
-permalink: 020-design-the-operation.html
+title: 010-directing-the-operation
+permalink: 010-directing-the-operation.html
 layout: page
 unit:
     course: 'intro-operation-management'
-    title: '020 Design the operation'
+    title: '010 Direction the operation'
     module: '000 Operation management'
 ---
+
+
 # SCORM
 {% assign files = site.static_files  %}
 {% for file in files   %}
@@ -25,4 +27,4 @@ unit:
 {% endfor %}
 
 # Preview
-[{{ file.basename }}]( {{  site.baseurl }}{{ file.path | replace: 'index.html', 'preview' }})
+[preview ]( {{  site.baseurl }}{{ file.path | replace: 'index.html', 'preview' }})
