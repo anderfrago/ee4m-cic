@@ -27,4 +27,4 @@ unit:
 {% endfor %}
 
 # Preview
-[preview ]({{ file.path | replace: '.html', '/preview/index.html' }})
+{% include index.html folder="preview" %}
