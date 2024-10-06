@@ -9,7 +9,9 @@ unit:
 ---
 <a href="{{ base }}">Back to home</a>
 
-# SCORM
+## SCORM
+You can download the SCORM package to be integrated into an LMS, e.g. Moodle.
+
 {% assign files = site.static_files  %}
 {% for file in files   %}
 {% if file.path contains page.title and file.path contains  'zip' %}
@@ -18,7 +20,9 @@ unit:
 {% endfor %}
 
 
-# Content
+## Content
+The theoretical contents of the course are shown below.
+
 {% assign files = site.static_files  %}
 {% for file in files   %}
 {% if file.path contains page.title and file.path contains  'pdf' %}
