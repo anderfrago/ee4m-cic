@@ -10,9 +10,8 @@ unit:
 The SCORM package (accesible to download from [here](./020-design-the-operation/SCORM-020-design-the-operation.zip){:target="_blank"} ) is integrable in LMSs like Moodle
 You can access to a [preview](./020-design-the-operation/preview){:target="_blank"}
 
-
 {% for file in site.static_files %}
-    {% if file.path contains page.title %}
-        <a href="{{ file.path }}">{{ file.title }}</a>
+    {% if file.path contains page.title and file.path contains  'pdf' %}
+        [{{ file.title }}]({{ file.path }}){:target="_blank"}
     {% endif %}
 {% endfor %}

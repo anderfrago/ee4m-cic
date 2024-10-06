@@ -11,7 +11,7 @@ The SCORM package (accesible to download from [here](./010-directing-the-operati
 You can access to a [preview](./010-directing-the-operation/preview){:target="_blank"}
 
 {% for file in site.static_files %}
-    {% if file.path contains page.title %}
-        <a href="{{ file.path }}">{{ file.title }}</a>
+    {% if file.path contains page.title and file.path contains  'pdf' %}
+        [{{ file.title }}]({{ file.path }}){:target="_blank"}
     {% endif %}
 {% endfor %}
