@@ -27,4 +27,4 @@ unit:
 {% endfor %}
 
 # Preview
-[preview ]({{  site.baseurl }}{{ file.path | replace: '.html', '/preview/index.html' }})
+[preview]({{ file.path | replace: '.html', '/preview/index.html' }})
