@@ -7,7 +7,7 @@ unit:
     title: '020 Design the operation'
     module: '000 Operation management'
 ---
-
+<a href="{{ base }}">Back to home</a>
 
 # SCORM
 {% assign files = site.static_files  %}
@@ -27,4 +27,4 @@ unit:
 {% endfor %}
 
 # Preview
-[preview]({{ file.path | replace: '.html', '/preview/index.html' }})
+[preview]({% link  '/preview/index.html' %})
