@@ -30,5 +30,6 @@ The theoretical contents of the course are shown below.
 {% endif %}
 {% endfor %}
 
-## Preview
-[preview]({% link  preview/index.html %})
+
+
+
