@@ -10,7 +10,7 @@ unit:
 
 ## Preview
 You can have a look here
-[preview]( preview/index.html )
+[preview]( 000-operation-management/020-design-the-operation/preview/index.html )
 
 ## SCORM
 You can download the SCORM package to be integrated into an LMS, e.g. Moodle.
