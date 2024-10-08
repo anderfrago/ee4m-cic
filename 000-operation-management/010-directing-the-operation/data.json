@@ -30,24 +30,20 @@
               "content": {
                 "textbook": "https://anderfrago.github.io/ee4m-cic/000-operation-management/010-directing-the-operation/012-operation-strategy-competitiveness.pdf"
               }
-            },           
-            {
-              "id": 3,
-              "title": "Unit 1.2.2: Productivity",
-              "content": {
-               
-              }
             }
           ]
         },
         {
           "id": 3,
-          "title": "Course 1.3: PowerBI",
+          "title": "Course 1.3: Digital transformation",
           "units": [
             {
               "id": 1,
-              "title": "Unit 1.3.1: Microsoft Data analyst",
+              "title": "Unit 1.3.1: Re-engineering & Digital Transformation",
               "content": {
+                "video": "https://youtu.be/K3t0RTxvcK8",
+                "textbook": "https://anderfrago.github.io/ee4m-cic/000-operation-management/010-directing-the-operation/013-digital-transformations.pdf"
+
               }
             }              
           ]
