@@ -10,7 +10,7 @@ unit:
 
 ## Preview
 You can have a look here
-[preview]({% link  preview/index.html %})
+[preview]( preview/index.html )
 
 ## SCORM
 You can download the SCORM package to be integrated into an LMS, e.g. Moodle.
