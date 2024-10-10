@@ -5,7 +5,7 @@
     <metadataSchema>ADL SCORM 1.2</metadataSchema>
     <identifier>
       <catalog>URI</catalog>
-      <entry>AF.EE4M.CICOMCourse.23f81214-5574-49d5-980a-7b97384c108a</entry>
+      <entry>AF.EE4M.CICOMCourse.66c210af-e952-4c91-a99c-378ffb54f707</entry>
     </identifier>
     <language>en-US</language>
     <contribute>
@@ -24,14 +24,14 @@ URL:http://ee4m.eu/
 END:VCARD  ]]></entity>
       <date>
         <dateTime>2024-10-10</dateTime>
-        <description language="en-US"><![CDATA[1728587368177]]></description>
+        <description language="en-US"><![CDATA[1728588051109]]></description>
       </date>
     </contribute>
   </metametadata>
   <general>
     <identifier>
       <catalog>URI</catalog>
-      <entry>AF.EE4M.CICOMCourse.23f81214-5574-49d5-980a-7b97384c108a</entry>
+      <entry>AF.EE4M.CICOMCourse.66c210af-e952-4c91-a99c-378ffb54f707</entry>
     </identifier>
     <title>
       <string language="en-US"><![CDATA[CIC OM Course]]></string>
@@ -78,7 +78,7 @@ URL:http://ee4m.eu/
 END:VCARD  ]]></entity>
       <date>
         <dateTime>2024-10-10</dateTime>
-        <description language="en-US"><![CDATA[1728587368177]]></description>
+        <description language="en-US"><![CDATA[1728588051109]]></description>
       </date>
     </contribute>
     <contribute>
@@ -97,7 +97,7 @@ URL:http://ee4m.eu/
 END:VCARD  ]]></entity>
       <date>
         <dateTime>2024-10-10</dateTime>
-        <description language="en-US"><![CDATA[1728587368177]]></description>
+        <description language="en-US"><![CDATA[1728588051109]]></description>
       </date>
     </contribute>
     <contribute>
@@ -117,7 +117,7 @@ URL:http://ee4m.eu/
 END:VCARD  ]]></entity>
       <date>
         <dateTime>2024-10-10</dateTime>
-        <description language="en-US"><![CDATA[1728587368177]]></description>
+        <description language="en-US"><![CDATA[1728588051109]]></description>
       </date>
     </contribute>
     <contribute>
@@ -136,7 +136,7 @@ URL:http://ee4m.eu/
 END:VCARD  ]]></entity>
       <date>
         <dateTime>2024-10-10</dateTime>
-        <description language="en-US"><![CDATA[1728587368177]]></description>
+        <description language="en-US"><![CDATA[1728588051109]]></description>
       </date>
     </contribute>
   </lifeCycle>
