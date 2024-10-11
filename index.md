@@ -8,7 +8,7 @@ Introduction to Operation Management:
 ### Introduction to Operation Management: Centro Integrado Cuatrovientos
 
 {% assign units = site.pages  %}
-{% for activity in units   %}
+{% for activity in units reversed   %}
 [{{ activity.unit.title }}]({{ activity.permalink }})
 {% endfor %}
 
