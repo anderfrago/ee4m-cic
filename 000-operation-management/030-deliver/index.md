@@ -1,16 +1,16 @@
 ---
-title: 03-deliver
-permalink: 03-deliver.html
+title: 030-deliver
+permalink: 030-deliver.html
 layout: page
 unit:
     course: 'intro-operation-management'
-    title: '03-deliver'
+    title: '030-deliver'
     module: '000 Operation management'
 ---
 
 ## Preview
-You can have a look here
-[preview]( 000-operation-management/03-deliver/preview/index.html )
+[preview]( 000-operation-management/030-deliver/preview/index.html )
+
 
 ## SCORM
 You can download the SCORM package to be integrated into an LMS, e.g. Moodle.
