@@ -4,7 +4,7 @@ permalink: 030-deliver.html
 layout: page
 unit:
     course: 'intro-operation-management'
-    title: '030-deliver'
+    title: '030 Deliver'
     module: '000 Operation management'
 ---
 
