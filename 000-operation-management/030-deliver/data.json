@@ -21,7 +21,15 @@
                 "id": 2,
                 "title": "Unit 3.1.2: Capacity management",
                 "content": {
+                  "video": "https://drive.google.com/file/d/1Mgu9hQw88PAvOMqU1zktoKOc7ARiva1i/preview",
                   "textbook": "https://anderfrago.github.io/ee4m-cic/000-operation-management/030-deliver/032-capacity-management.pdf" 
+                }
+              }  ,
+              {
+                "id": 3,
+                "title": "Unit 3.1.3: Forecasting",
+                "content": {
+                  "textbook": "https://anderfrago.github.io/ee4m-cic/000-operation-management/030-deliver/033-forecasting.pdf" 
                 }
               }              
             ]
