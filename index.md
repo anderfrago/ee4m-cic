@@ -1,22 +1,26 @@
 ---
 layout: home
-Introduction to Operation Management:
-  title: "Introduction to Operation Management: Example"
-  module: "Module 000: "
+title: "Introduction to Operation Management"
 ---
 
 ### Introduction to Operation Management: Centro Integrado Cuatrovientos
 
-{% assign units = site.pages  %}
-{% for activity in units  | sort  %}
-[{{ activity.unit.title }}]({{ activity.permalink }})
+The course offers an essential overview of managing organizational operations. It equips students with the skills to oversee the production of goods and services, focusing on efficiency and quality.
+
+**Requirements:**
+  > To enroll in the course, learners should have completed secondary education, equivalent to the European Qualifications Framework (EQF) Level 4. A background in business studies or economics at this level is advantageous but not essential. Proficiency in basic mathematics, as covered in EQF Level 3, is necessary due to the quantitative aspects of the course. Additionally, learners should possess basic computer skills and an understanding of fundamental business concepts, which are typically acquired by the end of secondary education. An interest in operations management and its role in organizational efficiency will also enhance the learning experience.
+
+**Previous competences:**
+  - Understanding of Business Fundamentals
+  - Innovation and Problem-Solving Skills
+  - Strategic Thinking
+
+{% assign pages = site.pages | sort: 'title'    %}
+{% for module in pages %}
+{% if module.layout == "page" %}
+[{{ module.title }}]({{ module.permalink }})
+{% endif %}
 {% endfor %}
 
 
-After you complete this Introduction to Operation Management, you will be able to:
-- Cras tincidunt massa et nunc vulputate, eget vestibulum massa tincidunt.
-- Maecenas suscipit at nisl vitae malesuada.
-- Suspendisse eu arcu id velit consequat venenatis.
-
-- **Estimated Time**: 300 minutes
 
